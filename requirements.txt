@@ -1,0 +1,16 @@
+asgiref==3.7.2
+certifi==2024.2.2
+charset-normalizer==3.3.2
+Django==5.0
+django-tenant-users==1.4.0
+django-tenants==3.6.1
+gunicorn==21.2.0
+idna==3.7
+packaging==23.1
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0
+requests==2.32.3
+sqlparse==0.4.4
+typing_extensions==4.7.1
+urllib3==2.2.1
+whitenoise==6.5.0
